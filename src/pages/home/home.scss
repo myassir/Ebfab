@@ -1,3 +1,16 @@
 page-home {
-
+    .content{
+        background-color: #424750;
+    }
+    .welcome-div{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 70%;
+    }
+    .welcome-div .logo{
+        padding: 20px;
+        margin-bottom: 100px;
+    }
 }
